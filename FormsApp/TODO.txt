@@ -1,0 +1,5 @@
+SORT listview alphabetically:
+								- first folders
+								- then files
+
+Decompression correctly views according to full paths
